@@ -1,0 +1,15 @@
+.InfoBox {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.InfoBox h3 {
+  margin-top: 20px;
+  color: #555;
+}
